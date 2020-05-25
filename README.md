@@ -8,3 +8,9 @@ I used DOTween to animate the fishes and hook, so you might want to look at a DO
 Feel free to ask any questions you have, I will upgrade this project with few minor changes like adding a score UI when a fish is caught or adding a few sound effects. 
 
 Stay healthy and stay safe :)
+
+![screenshot1](https://i.hizliresim.com/yNvDxI.jpg)
+
+![screenshot1](https://i.hizliresim.com/XLeBJg.jpg)
+
+![screenshot1](https://i.hizliresim.com/BY6SAP.jpg)
